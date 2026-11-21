@@ -171,7 +171,7 @@ erDiagram
 
 ## 📖 要件定義書・画面設計書
 
-👉 **[Web版 要件定義書・画面設計書はこちら（GitHub Pages）](https://github.com/kishiya0618-jpg/project)**  
+👉 **[Web版 要件定義書・画面設計書はこちら（GitHub Pages）](https://kishiya0618-jpg.github.io/project/)**  
 *(※リンクを別タブで開く場合は `Ctrl + クリック`（Macは `Cmd + クリック`）してください)*  
 *(※リポジトリ同梱の `画面遷移図.html` にて、システム仕様・各画面イメージ・業務フローの詳細をWebブラウザ形式で直接ご覧いただくことも可能です)*
 
