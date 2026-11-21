@@ -95,7 +95,7 @@
 | **Webコンテナ / APサーバ** | Apache Tomcat 11 |
 | **バックエンドフレームワーク** | Java (Servlet / JSP / MVCモデル設計) |
 | **ライブラリ** | PostgreSQL JDBC Driver 42.7.10, Jakarta Standard Taglib (JSTL) 3.0.1 |
-| **データベース** | PostgreSQL 18.1（テーブル生成用 [DDL.sql](DDL.sql) を同梱） |
+| **データベース** | PostgreSQL 18.1（テーブル生成用 [create_tables.sql](create_tables.sql) を同梱） |
 | **インフラ / ホスティング** | AWS (EC2: Amazon Linux) / Apache Tomcat 11 ※検証用パブリックIPで公開(独自ドメイン・SSL暗号化は今後の課題)
 | **統合開発環境 (IDE)** | Eclipse |
 | **DB管理・設計ツール** | A5:SQL Mk-2 |
