@@ -1,6 +1,5 @@
--- Project Name : Mr's4G
+-- Project Name : 避難所ラストワンマイル物資配送支援アプリ
 -- Date/Time    : 2026/09/07 16:19:46
--- Author       : H30715
 -- RDBMS Type   : PostgreSQL
 -- Application  : A5:SQL Mk-2
 
